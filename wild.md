@@ -9,10 +9,7 @@ which is joined work with
 and
 [Tanja Lange](http://www.hyperelliptic.org/tanja/).
 
-Run the script using [Sage](http://www.sagemath.org/)
-which is a free open-source mathematics software system.
-
-Download [wild-decoder.sg](wild-decoder.sg).
+Download [wild-decoder.py](wild-decoder.py).
 
 ### Note
 The use of wild Goppa codes was shown to be unsuitable for the

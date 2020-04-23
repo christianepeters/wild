@@ -1,15 +1,14 @@
 # Wild-Goppa-code decoder
 # as in "Wild McEliece" 
 # by Daniel J. Bernstein, Tanja Lange, Christiane Peters
-# To appear at SAC 2010.
-# Article: http://www2.mat.dtu.dk/people/C.Peters/publications/2010.wild.pdf
+# Published at SAC 2010.
+# Link to publication: https://eprint.iacr.org/2010/410
 #
 # The following is an example. Note that it's from the perspective 
 # of the code Gamma_q^m(a1,...,an, g^q). 
 # I didn't bother looking for a codeword in the subfield Fq.
 #
-# By Christiane Peters, August 10, 2010.
-# Questions -> c.p.peters@tue.nl
+# By Christiane Peters, August 10, 2010. (Updated Thu Apr 23, 2020).
 #
 #
 q=3; K=GF(q)
