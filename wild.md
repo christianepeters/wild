@@ -1,4 +1,4 @@
-## Wild-Goppa-code decoder
+# Wild-Goppa-code decoder
 
 This is a simple Python script available which demonstrates how
 to decode wild Goppa codes. The construction of the codes and the
@@ -14,7 +14,7 @@ which is a free open-source mathematics software system.
 
 Download [wild-decoder.sg](wild-decoder.sg).
 
-## Note
+### Note
 The use of wild Goppa codes was shown to be unsuitable for the
 McEliece cryptosystem in 
 [this paper](https://eprint.iacr.org/2014/112.pdf).
